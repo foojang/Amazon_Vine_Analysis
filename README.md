@@ -5,7 +5,9 @@ We have been asked by Jennifer to review how useful the paid Amazon Vine Program
 **Results**
 
 •	In the below results we can see that there were 613 paid reviews and 64,968 unpaid reviews. 
+
 •	Of the paid reviews there were 222 five stars and 30,543 unpaid five-star reviews. 
+
 •	The paid five start reviews were 36% of the total reviews and unpaid five-star reviews were 47% 
 
 ![image](https://user-images.githubusercontent.com/95973377/163595059-77ff65d1-1da8-4737-adcb-21f8e5a5eda9.png)
